@@ -8,6 +8,8 @@ EMRT-NECD Apache image
 * Install [Docker](https://docs.docker.com/engine/installation/)
 * Install [Docker Compose](https://docs.docker.com/compose/install/)
 
+### Installation
+
 1. Get the source code:
 
         $ git clone https://github.com/eea/eea.docker.apache-emrt-necd
